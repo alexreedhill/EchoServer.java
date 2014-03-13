@@ -6,7 +6,6 @@ import java.net.*;
  */
 public class EchoClient {
     private PrintWriter out;
-    private InputStreamReader networkStreamReader;
     private BufferedReader networkIn;
     private BufferedReader userIn;
 
@@ -14,6 +13,7 @@ public class EchoClient {
     public EchoClient() throws IOException {
         String hostname = "localhost";
         Socket localhostSocket = new Socket(hostname, 8000);
+        InputStreamReader networkStreamReader;
         networkStreamReader = new InputStreamReader(localhostSocket.getInputStream());
         networkIn = new BufferedReader(networkStreamReader);
         InputStreamReader userStreamReader;

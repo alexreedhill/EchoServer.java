@@ -75,10 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EchoClient.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="EchoClient.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EchoClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="60" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+            <state line="28" column="33" selection-start="952" selection-end="952" vertical-scroll-proportion="0.6034483" vertical-offset="0" max-vertical-offset="855">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.021551725" vertical-offset="0" max-vertical-offset="696">
+            <state line="1" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
               <folding />
             </state>
           </provider>
@@ -106,8 +106,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/EchoServer.java" />
-        <option value="$PROJECT_DIR$/src/EchoClient.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/EchoClient.java" />
       </list>
     </option>
   </component>
@@ -425,19 +425,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EchoClient.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="60" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="1" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.021551725" vertical-offset="0" max-vertical-offset="696">
-          <folding />
+        <state line="28" column="33" selection-start="952" selection-end="952" vertical-scroll-proportion="0.6034483" vertical-offset="0" max-vertical-offset="855">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
