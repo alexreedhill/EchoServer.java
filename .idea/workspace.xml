@@ -64,12 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EchoServer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EchoServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="19" selection-start="1049" selection-end="1075" vertical-scroll-proportion="0.5258621" vertical-offset="144" max-vertical-offset="840">
+            <state line="1" column="24" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="840">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -79,10 +78,19 @@
       <file leaf-file-name="EchoClient.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EchoClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+            <state line="15" column="60" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.021551725" vertical-offset="0" max-vertical-offset="696">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,8 +105,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/EchoClient.java" />
         <option value="$PROJECT_DIR$/src/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/EchoClient.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -393,7 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="33" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="705">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -408,22 +416,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EchoClient.java">
+    <entry file="file://$PROJECT_DIR$/src/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+        <state line="1" column="24" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="840">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EchoServer.java">
+    <entry file="file://$PROJECT_DIR$/src/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="19" selection-start="1049" selection-end="1075" vertical-scroll-proportion="0.5258621" vertical-offset="144" max-vertical-offset="840">
+        <state line="15" column="60" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.021551725" vertical-offset="0" max-vertical-offset="696">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -30,7 +30,7 @@ public class EchoServer {
         }
     }
 
-    public void run() throws IOException {
+    private void run() throws IOException {
         System.out.println("Echo server started");
         String inputLine;
         while ((inputLine = in.readLine()) != null) {
